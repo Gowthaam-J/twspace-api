@@ -1,0 +1,21 @@
+2025-06-06T19:07:12.158Z | [ERROR] [SpaceDownloader] ffmpeg process exited with code 1
+2025-06-06T19:07:12.159Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg process exited with code 1
+2025-06-06T19:07:22.617Z | [ERROR] [SpaceDownloader] ffmpeg process exited with code 1
+2025-06-06T19:07:22.618Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg process exited with code 1
+2025-06-06T19:07:32.781Z | [ERROR] [SpaceDownloader] ffmpeg process exited with code 1
+2025-06-06T19:07:32.782Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg process exited with code 1
+2025-06-06T19:07:42.925Z | [ERROR] [SpaceDownloader] ffmpeg process exited with code 1
+2025-06-06T19:07:42.925Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg process exited with code 1
+2025-06-06T19:08:08.613Z | [ERROR] [SpaceDownloader] ffmpeg process exited with code 1
+2025-06-06T19:08:08.615Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg process exited with code 1
+2025-06-06T19:12:12.499Z | [ERROR] [SpaceDownloader] ffmpeg process exited with code 1
+2025-06-06T19:12:12.500Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg process exited with code 1
+2025-06-06T19:12:22.777Z | [ERROR] [SpaceDownloader] ffmpeg process exited with code 1
+2025-06-06T19:12:22.779Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg process exited with code 1
+2025-06-06T19:12:33.286Z | [ERROR] [SpaceDownloader] ffmpeg process exited with code 1
+2025-06-06T19:12:33.287Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg process exited with code 1
+2025-06-06T19:12:43.554Z | [ERROR] [SpaceDownloader] ffmpeg process exited with code 1
+2025-06-06T19:12:43.556Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg process exited with code 1
+2025-06-06T19:38:14.507Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg exited with code 1
+2025-06-06T19:38:24.745Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg exited with code 1
+2025-06-07T04:04:46.588Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] downloadAudio: ffmpeg exited with code 4294967158

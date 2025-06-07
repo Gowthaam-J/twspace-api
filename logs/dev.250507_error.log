@@ -1,0 +1,4 @@
+2025-05-07T07:52:03.164Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: ENOENT: no such file or directory, open 'D:\Nexusvoid\twspace-crawler-master (1)\twspace-crawler-master\download\Movies\[Movies][2407262331] The @BorderlandsFilm cast is live with @Fandango at SDCC! (1vOxwrneqBqJB).m4a'
+2025-05-07T07:54:34.400Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: Empty value provided for input HTTP label: Bucket.
+2025-05-07T08:01:38.530Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain
+2025-05-07T08:03:14.662Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain

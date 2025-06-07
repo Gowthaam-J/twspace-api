@@ -1,0 +1,4 @@
+2025-05-28T17:22:39.157Z | [ERROR] [SpaceWatcher@1gqGvQEqqmBKB] Error uploading to S3 or saving to DB: Tenant or user not found
+2025-05-28T17:23:01.624Z | [ERROR] [SpaceWatcher@1gqGvQEqqmBKB] Error uploading to S3 or saving to DB: Tenant or user not found
+2025-05-28T17:23:34.725Z | [ERROR] [SpaceWatcher@1gqGvQEqqmBKB] Error uploading to S3 or saving to DB: Tenant or user not found
+2025-05-28T17:24:13.038Z | [ERROR] [SpaceWatcher@1gqGvQEqqmBKB] Error uploading to S3 or saving to DB: Tenant or user not found

@@ -1,0 +1,2 @@
+2025-06-06T13:54:19.605Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: Tenant or user not found
+2025-06-06T14:17:58.845Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: write ENOBUFS

@@ -1,0 +1,6 @@
+2025-05-08T05:34:00.254Z | [ERROR] [SpaceWatcher@1gqGvQEqqmBKB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain
+2025-05-08T05:41:40.066Z | [ERROR] [SpaceWatcher@1gqGvQEqqmBKB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain
+2025-05-08T05:46:07.572Z | [ERROR] [SpaceWatcher@1gqGvQEqqmBKB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain
+2025-05-08T05:58:11.682Z | [ERROR] [SpaceWatcher@1gqGvQEqqmBKB] Error uploading to S3 or saving to DB: getaddrinfo ENOTFOUND db.mklgcjeyjuwqweopkqev.supabase.co
+2025-05-08T06:01:41.959Z | [ERROR] [SpaceWatcher@1gqGvQEqqmBKB] Error uploading to S3 or saving to DB: relation "spaces" does not exist
+2025-05-08T06:03:47.348Z | [ERROR] [SpaceWatcher@1gqGvQEqqmBKB] Error uploading to S3 or saving to DB: column "space_id" of relation "spaces" does not exist

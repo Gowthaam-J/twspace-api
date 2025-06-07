@@ -1,0 +1,8 @@
+2025-05-07T08:06:52.665Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain
+2025-05-07T08:14:42.740Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: getaddrinfo ENOTFOUND pg-26dd247-gowthaamgowthaam541-79af.h.aivencloud.com
+2025-05-07T08:24:54.163Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain
+2025-05-07T08:29:22.566Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain
+2025-05-07T08:55:40.406Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain
+2025-05-07T09:01:42.396Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain
+2025-05-07T09:32:44.181Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain
+2025-05-07T09:36:00.647Z | [ERROR] [SpaceWatcher@1vOxwrneqBqJB] Error uploading to S3 or saving to DB: self-signed certificate in certificate chain
