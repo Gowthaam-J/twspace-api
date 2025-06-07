@@ -1,0 +1,74 @@
+{
+  "name": "twspace-crawler",
+  "version": "1.14.1",
+  "description": "Script to monitor & download Twitter Spaces 24/7",
+  "keywords": [
+    "node",
+    "nodejs",
+    "node-cli",
+    "twitter-api",
+    "twitter-spaces"
+  ],
+  "homepage": "https://github.com/HitomaruKonpaku/twspace-crawler#readme",
+  "license": "ISC",
+  "author": "HitomaruKonpaku",
+  "bin": {
+    "twspace-crawler": "dist/index.js"
+  },
+  "files": [
+    "dist/**/*.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HitomaruKonpaku/twspace-crawler.git"
+  },
+  "scripts": {
+    "start": "node dist/index",
+    "start:config": "node dist/index --config ./config.json",
+    "start:api": "node dist/apiServer.js",
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "lab --transform node_modules/lab-transform-typescript",
+    "lint": "eslint src --ext .ts",
+    "lint:fix": "eslint src --ext .ts --fix"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "axios": "^0.25.0",
+    "body-parser": "^2.2.0",
+    "bottleneck": "^2.19.5",
+    "commander": "^8.3.0",
+    "dotenv": "^14.3.2",
+    "express": "^5.1.0",
+    "js-yaml": "^4.1.0",
+    "node-notifier": "^10.0.0",
+    "open": "^8.4.0",
+    "tslib": "^2.3.1",
+    "winston": "^3.4.0",
+    "winston-daily-rotate-file": "^4.5.5",
+    "pg": "^8.11.0",
+    "@aws-sdk/client-s3": "^3.379.0"
+  },
+  "devDependencies": {
+    "@hapi/code": "^8.0.5",
+    "@hapi/lab": "^24.5.0",
+    "@types/aws-sdk": "^2.7.0",
+    "@types/body-parser": "^1.19.5",
+    "@types/express": "^5.0.1",
+    "@types/js-yaml": "^4.0.5",
+    "@types/node": "^14.0.0",
+    "@types/node-notifier": "^8.0.2",
+    "@types/pg": "^8.6.6",
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "lab-transform-typescript": "^3.0.1",
+    "typescript": "^5.8.3"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
+
